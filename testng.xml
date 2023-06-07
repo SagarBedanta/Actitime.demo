@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout"/>
+      <class name="com.actitime.testcases.TC5_ActitimeCreateNewUserLogout"/>
+      <class name="com.actitime.testcases.TC2_ActitimeCreateCustomerDeleteCustomerLogout"/>
+      <class name="com.actitime.testcases.TC1_ActitimeLoginLogout"/>
+      <class name="com.actitime.testcases.TC6_ActitimeCreateLeaveType"/>
+      <class name="com.actitime.testcases.TC4_ActitimeCreateProjectLogout"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

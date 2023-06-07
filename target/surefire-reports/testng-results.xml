@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="28" passed="18" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[execution started]]>
+    </line>
+    <line>
+      <![CDATA[both titles are matching]]>
+    </line>
+    <line>
+      <![CDATA[execution completed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-04T20:25:32 IST" name="Suite" finished-at="2023-06-04T20:29:51 IST" duration-ms="259116">
+    <groups>
+    </groups>
+    <test started-at="2023-06-04T20:25:32 IST" name="Test" finished-at="2023-06-04T20:29:51 IST" duration-ms="259116">
+      <class name="com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout">
+        <test-method is-config="true" signature="executionStart()[pri:0, instance:com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout@399f45b1]" started-at="2023-06-04T20:25:32 IST" name="executionStart" finished-at="2023-06-04T20:25:32 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[execution started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executionStart -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout@399f45b1]" started-at="2023-06-04T20:25:32 IST" name="setup" finished-at="2023-06-04T20:25:43 IST" duration-ms="10644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout@399f45b1]" started-at="2023-06-04T20:25:43 IST" name="login" finished-at="2023-06-04T20:25:43 IST" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="creatework()[pri:2, instance:com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout@399f45b1]" started-at="2023-06-04T20:25:43 IST" name="creatework" finished-at="2023-06-04T20:26:13 IST" duration-ms="29609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatework -->
+        <test-method signature="deletework()[pri:3, instance:com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout@399f45b1]" started-at="2023-06-04T20:26:13 IST" name="deletework" finished-at="2023-06-04T20:26:16 IST" duration-ms="3112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletework -->
+        <test-method signature="logout()[pri:4, instance:com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout@399f45b1]" started-at="2023-06-04T20:26:16 IST" name="logout" finished-at="2023-06-04T20:26:23 IST" duration-ms="6930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout@399f45b1]" started-at="2023-06-04T20:26:23 IST" name="teardown" finished-at="2023-06-04T20:26:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="executionComplete()[pri:0, instance:com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout@399f45b1]" started-at="2023-06-04T20:29:51 IST" name="executionComplete" finished-at="2023-06-04T20:29:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[execution completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executionComplete -->
+      </class> <!-- com.actitime.testcases.TC3_ActitimeLoginCreateWorkDeleteWorkLogout -->
+      <class name="com.actitime.testcases.TC6_ActitimeCreateLeaveType">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.actitime.testcases.TC6_ActitimeCreateLeaveType@1d2adfbe]" started-at="2023-06-04T20:28:23 IST" name="setup" finished-at="2023-06-04T20:28:31 IST" duration-ms="8267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:com.actitime.testcases.TC6_ActitimeCreateLeaveType@1d2adfbe]" started-at="2023-06-04T20:28:31 IST" name="login" finished-at="2023-06-04T20:28:31 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="creatework()[pri:2, instance:com.actitime.testcases.TC6_ActitimeCreateLeaveType@1d2adfbe]" started-at="2023-06-04T20:28:31 IST" name="creatework" finished-at="2023-06-04T20:28:55 IST" duration-ms="23643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatework -->
+        <test-method signature="logout()[pri:3, instance:com.actitime.testcases.TC6_ActitimeCreateLeaveType@1d2adfbe]" started-at="2023-06-04T20:28:55 IST" name="logout" finished-at="2023-06-04T20:29:00 IST" duration-ms="5113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.actitime.testcases.TC6_ActitimeCreateLeaveType@1d2adfbe]" started-at="2023-06-04T20:29:00 IST" name="teardown" finished-at="2023-06-04T20:29:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.actitime.testcases.TC6_ActitimeCreateLeaveType -->
+      <class name="com.actitime.testcases.TC5_ActitimeCreateNewUserLogout">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.actitime.testcases.TC5_ActitimeCreateNewUserLogout@564fabc8]" started-at="2023-06-04T20:26:23 IST" name="setup" finished-at="2023-06-04T20:26:32 IST" duration-ms="8443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:com.actitime.testcases.TC5_ActitimeCreateNewUserLogout@564fabc8]" started-at="2023-06-04T20:26:32 IST" name="login" finished-at="2023-06-04T20:26:32 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addusers()[pri:2, instance:com.actitime.testcases.TC5_ActitimeCreateNewUserLogout@564fabc8]" started-at="2023-06-04T20:26:32 IST" name="addusers" finished-at="2023-06-04T20:26:59 IST" duration-ms="27228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addusers -->
+        <test-method signature="logout()[pri:3, instance:com.actitime.testcases.TC5_ActitimeCreateNewUserLogout@564fabc8]" started-at="2023-06-04T20:26:59 IST" name="logout" finished-at="2023-06-04T20:27:05 IST" duration-ms="5790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.actitime.testcases.TC5_ActitimeCreateNewUserLogout@564fabc8]" started-at="2023-06-04T20:27:05 IST" name="teardown" finished-at="2023-06-04T20:27:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.actitime.testcases.TC5_ActitimeCreateNewUserLogout -->
+      <class name="com.actitime.testcases.TC1_ActitimeLoginLogout">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.actitime.testcases.TC1_ActitimeLoginLogout@49ec71f8]" started-at="2023-06-04T20:28:03 IST" name="setup" finished-at="2023-06-04T20:28:12 IST" duration-ms="8662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginLogout()[pri:0, instance:com.actitime.testcases.TC1_ActitimeLoginLogout@49ec71f8]" started-at="2023-06-04T20:28:12 IST" name="loginLogout" finished-at="2023-06-04T20:28:23 IST" duration-ms="10786" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[both titles are matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginLogout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.actitime.testcases.TC1_ActitimeLoginLogout@49ec71f8]" started-at="2023-06-04T20:28:23 IST" name="teardown" finished-at="2023-06-04T20:28:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.actitime.testcases.TC1_ActitimeLoginLogout -->
+      <class name="com.actitime.testcases.TC2_ActitimeCreateCustomerDeleteCustomerLogout">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.actitime.testcases.TC2_ActitimeCreateCustomerDeleteCustomerLogout@16d04d3d]" started-at="2023-06-04T20:27:05 IST" name="setup" finished-at="2023-06-04T20:27:14 IST" duration-ms="8796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logincreatecustomerlogout()[pri:0, instance:com.actitime.testcases.TC2_ActitimeCreateCustomerDeleteCustomerLogout@16d04d3d]" started-at="2023-06-04T20:27:14 IST" name="logincreatecustomerlogout" finished-at="2023-06-04T20:27:14 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincreatecustomerlogout -->
+        <test-method signature="createscustomer()[pri:2, instance:com.actitime.testcases.TC2_ActitimeCreateCustomerDeleteCustomerLogout@16d04d3d]" started-at="2023-06-04T20:27:14 IST" name="createscustomer" finished-at="2023-06-04T20:27:42 IST" duration-ms="27661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createscustomer -->
+        <test-method signature="deletecustomer()[pri:3, instance:com.actitime.testcases.TC2_ActitimeCreateCustomerDeleteCustomerLogout@16d04d3d]" started-at="2023-06-04T20:27:42 IST" name="deletecustomer" finished-at="2023-06-04T20:27:57 IST" duration-ms="15577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method signature="logout()[pri:4, instance:com.actitime.testcases.TC2_ActitimeCreateCustomerDeleteCustomerLogout@16d04d3d]" started-at="2023-06-04T20:27:57 IST" name="logout" finished-at="2023-06-04T20:28:03 IST" duration-ms="5876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.actitime.testcases.TC2_ActitimeCreateCustomerDeleteCustomerLogout@16d04d3d]" started-at="2023-06-04T20:28:03 IST" name="teardown" finished-at="2023-06-04T20:28:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.actitime.testcases.TC2_ActitimeCreateCustomerDeleteCustomerLogout -->
+      <class name="com.actitime.testcases.TC4_ActitimeCreateProjectLogout">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.actitime.testcases.TC4_ActitimeCreateProjectLogout@36902638]" started-at="2023-06-04T20:29:00 IST" name="setup" finished-at="2023-06-04T20:29:08 IST" duration-ms="8314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:com.actitime.testcases.TC4_ActitimeCreateProjectLogout@36902638]" started-at="2023-06-04T20:29:08 IST" name="login" finished-at="2023-06-04T20:29:09 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createproject()[pri:2, instance:com.actitime.testcases.TC4_ActitimeCreateProjectLogout@36902638]" started-at="2023-06-04T20:29:09 IST" name="createproject" finished-at="2023-06-04T20:29:46 IST" duration-ms="37332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createproject -->
+        <test-method signature="logout()[pri:3, instance:com.actitime.testcases.TC4_ActitimeCreateProjectLogout@36902638]" started-at="2023-06-04T20:29:46 IST" name="logout" finished-at="2023-06-04T20:29:51 IST" duration-ms="5147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.actitime.testcases.TC4_ActitimeCreateProjectLogout@36902638]" started-at="2023-06-04T20:29:51 IST" name="teardown" finished-at="2023-06-04T20:29:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.actitime.testcases.TC4_ActitimeCreateProjectLogout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
